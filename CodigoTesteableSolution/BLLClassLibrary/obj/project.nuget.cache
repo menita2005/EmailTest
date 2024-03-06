@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "74JA6XTg9tuxyuBOYgxdw4FbwASDw2IU5He4GehfER8vKZ3IosJ6WSn+QFM3OKPlXnfHwXSb03Hy1PAtEYFAUw==",
+  "success": true,
+  "projectFilePath": "C:\\CodigoTesteableSolution\\BLLClassLibrary\\BLLClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

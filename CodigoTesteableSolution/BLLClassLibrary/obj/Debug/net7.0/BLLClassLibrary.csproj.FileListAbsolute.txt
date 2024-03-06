@@ -1,0 +1,12 @@
+C:\CodigoTesteableSolution\BLLClassLibrary\bin\Debug\net7.0\BLLClassLibrary.deps.json
+C:\CodigoTesteableSolution\BLLClassLibrary\bin\Debug\net7.0\BLLClassLibrary.dll
+C:\CodigoTesteableSolution\BLLClassLibrary\bin\Debug\net7.0\BLLClassLibrary.pdb
+C:\CodigoTesteableSolution\BLLClassLibrary\obj\Debug\net7.0\BLLClassLibrary.csproj.AssemblyReference.cache
+C:\CodigoTesteableSolution\BLLClassLibrary\obj\Debug\net7.0\BLLClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodigoTesteableSolution\BLLClassLibrary\obj\Debug\net7.0\BLLClassLibrary.AssemblyInfoInputs.cache
+C:\CodigoTesteableSolution\BLLClassLibrary\obj\Debug\net7.0\BLLClassLibrary.AssemblyInfo.cs
+C:\CodigoTesteableSolution\BLLClassLibrary\obj\Debug\net7.0\BLLClassLibrary.csproj.CoreCompileInputs.cache
+C:\CodigoTesteableSolution\BLLClassLibrary\obj\Debug\net7.0\BLLClassLibrary.dll
+C:\CodigoTesteableSolution\BLLClassLibrary\obj\Debug\net7.0\refint\BLLClassLibrary.dll
+C:\CodigoTesteableSolution\BLLClassLibrary\obj\Debug\net7.0\BLLClassLibrary.pdb
+C:\CodigoTesteableSolution\BLLClassLibrary\obj\Debug\net7.0\ref\BLLClassLibrary.dll
